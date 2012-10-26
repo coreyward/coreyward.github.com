@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://coreyward.github.com/atom.xml" rel="self"/>
-  <link href="http://coreyward.github.com/"/>
-  <updated>2012-10-26T18:09:29-05:00</updated>
-  <id>http://coreyward.github.com/</id>
+  <title><![CDATA[Unshift: Corey Ward on Code]]></title>
+  <link href="http://coreyward.github.com//atom.xml" rel="self"/>
+  <link href="http://coreyward.github.com//"/>
+  <updated>2012-10-26T18:35:45-05:00</updated>
+  <id>http://coreyward.github.com//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Corey Ward]]></name>
+    <email><![CDATA[corey.atx@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Herrrro?]]></title>
+    <link href="http://coreyward.github.com//blog/2012/10/26/herrrro/"/>
+    <updated>2012-10-26T18:20:00-05:00</updated>
+    <id>http://coreyward.github.com//blog/2012/10/26/herrrro</id>
+    <content type="html"><![CDATA[<p>Alright, here&#8217;s where I step up and add some legitimacy to all of those
+bold claims I keep making <a href="http://twitter.com/dhh">@dhh</a>, give back to
+the community a bit, and maybe even do a bit of self-serving PR work.</p>
+
+<p>For now, here&#8217;s some code so I know this works:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="n">timey_wimey_thing</span> <span class="k">do</span> <span class="o">|</span><span class="n">tardis</span><span class="o">|</span>
+</span><span class='line'>  <span class="n">tardis</span><span class="o">.</span><span class="n">travel</span><span class="p">(</span>
+</span><span class='line'>    <span class="no">Geo</span><span class="o">.</span><span class="n">lookup</span><span class="p">(</span><span class="s1">&#39;4200 N. Lamar Blvd, Austin, TX, 78756&#39;</span><span class="p">),</span>
+</span><span class='line'>    <span class="no">Chronic</span><span class="o">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;next Wednesday at 3:33pm&#39;</span><span class="p">)</span>
+</span><span class='line'>  <span class="p">)</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p><em>Hopefully</em> that looks alright, but I&#8217;m not making any guarantees (though
+I will be checking momentarily and, maybe, fixing it).</p>
+
+<hr />
+
+<p><strong>Edit:</strong> Looks like that went over quite well. :)</p>
+]]></content>
+  </entry>
   
 </feed>
